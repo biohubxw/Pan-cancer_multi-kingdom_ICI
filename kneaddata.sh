@@ -12,3 +12,4 @@ do
             -db /data/annotation/contaminate_db/ --bypass-trim 
 done
 
+
